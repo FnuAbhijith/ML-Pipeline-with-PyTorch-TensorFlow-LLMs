@@ -67,19 +67,5 @@ python llm_summary.py
 - Integrates **LLMs for modern AI workflows**.  
 - Full **end-to-end ML pipeline**: preprocessing → training → evaluation → inference.  
 
----
 
-## Future Work  
-- Extend deep learning models with embeddings/transformers.  
-- Use LLMs for explainability.  
-- Deploy via API or Streamlit.  
 
----
-
-## Author  
-**Abhijith Shetty**  
-- Master’s Student in Data Science, University of Memphis  
-- Aspiring Data Scientist / ML Engineer  
-- [LinkedIn](https://www.linkedin.com/in/fnuabhijith) | [GitHub](https://github.com/FnuAbhijith) | [Portfolio](https://fnuabhijith.github.io/Abhijith-Portfolio)  
-
----
