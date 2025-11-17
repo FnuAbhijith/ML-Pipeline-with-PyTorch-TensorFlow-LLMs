@@ -1,4 +1,4 @@
-# End-to-End ML Pipeline with PyTorch, TensorFlow & LLMs  
+# ML Pipeline with PyTorch, TensorFlow & LLMs  
 
 This project demonstrates an **end-to-end data science pipeline** combining **PyTorch**, **TensorFlow**, and **Large Language Models (LLMs)** for solving diverse ML tasks. It highlights proficiency in multiple ML frameworks and modern NLP techniques, making it highly relevant for real-world applications.  
 
